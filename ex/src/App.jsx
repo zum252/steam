@@ -1,6 +1,6 @@
 import React from 'react';
 import { ChevronLeft, ChevronRight, ShoppingCart, Heart, User, Settings, Search, Bell } from 'lucide-react';
-
+//
 function App() {
   return (
     <div className="min-h-screen bg-[#1b2838] text-white">
